@@ -1,6 +1,6 @@
 # 3D FlowMatch Actor
 
-This repository contains the source code for the [3D FlowMatch Actor project page](https://3d-flow-actor.github.io/).
+This repository contains the source code for the [3D FlowMatch Actor project page](https://3d-flowmatch-actor.github.io/).
 
 If you find 3D FlowMatch Actor useful for your work, please cite:
 
